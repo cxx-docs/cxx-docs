@@ -11,5 +11,6 @@ Listing
    :maxdepth: 2
 
    books
+   videos
    support
    contribute
